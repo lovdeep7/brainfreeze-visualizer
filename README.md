@@ -6,7 +6,7 @@ This React App is an execution visualizer for the [esoteric programming language
 
 ### Source Code
 
-The app lies in `App.js` and uses `react-bootstrap` for styling. `DataArray.js` is responsible for rendering the Memory data and stepping through the script and `InstructionScript.js` is responsible for rendering the script and the instruction pointer. 
+The app lies in `src/App.js` and uses `react-bootstrap` for styling. `src/components/DataArray.js` is responsible for rendering the Memory data and stepping through the script and `src/components/InstructionScript.js` is responsible for rendering the script and the instruction pointer. 
 
 ### How to run
 
