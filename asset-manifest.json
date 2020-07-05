@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/brainfreeze-visualizer/static/css/main.338b9583.chunk.css",
+    "main.js": "/brainfreeze-visualizer/static/js/main.ac4e380a.chunk.js",
+    "main.js.map": "/brainfreeze-visualizer/static/js/main.ac4e380a.chunk.js.map",
+    "runtime-main.js": "/brainfreeze-visualizer/static/js/runtime-main.a0b544cb.js",
+    "runtime-main.js.map": "/brainfreeze-visualizer/static/js/runtime-main.a0b544cb.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/brainfreeze-visualizer/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.63b808c2.chunk.js": "/brainfreeze-visualizer/static/js/2.63b808c2.chunk.js",
+    "static/js/2.63b808c2.chunk.js.map": "/brainfreeze-visualizer/static/js/2.63b808c2.chunk.js.map",
+    "index.html": "/brainfreeze-visualizer/index.html",
+    "precache-manifest.58a4687557e9bd97fe33e619194c4768.js": "/brainfreeze-visualizer/precache-manifest.58a4687557e9bd97fe33e619194c4768.js",
+    "service-worker.js": "/brainfreeze-visualizer/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/brainfreeze-visualizer/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.338b9583.chunk.css.map": "/brainfreeze-visualizer/static/css/main.338b9583.chunk.css.map",
+    "static/js/2.63b808c2.chunk.js.LICENSE.txt": "/brainfreeze-visualizer/static/js/2.63b808c2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a0b544cb.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.63b808c2.chunk.js",
+    "static/css/main.338b9583.chunk.css",
+    "static/js/main.ac4e380a.chunk.js"
+  ]
+}
