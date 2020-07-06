@@ -22,4 +22,4 @@ The app lies in `src/App.js` and uses `react-bootstrap` for styling. `src/compon
 - [ ] Enter brainfreeze script and click submit. A script that outputs Hello World\n has already been populated for you. Step through the script and learn how brainfreeze works! 
 
 ### Demo
-Visit http://lovdeep7.github.io/brainfreeze-visualizer to try it out.
+Visit http://lovdeep7.github.io/brainfreeze-visualizer/ to try it out.
